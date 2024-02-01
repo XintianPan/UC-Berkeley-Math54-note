@@ -23,7 +23,7 @@ This switches the rows and columns of $A$ (i.e. $i$-th row of $A$ becomes $i$-th
 
 Consider the $ij$-th entry in $(AB)^T$. That is the $ji$-th entry in $AB$ which is the $j$-th row of $A$ times the $i$-th column in $B$.
 
-Now consider the $ij$-entry in $B^TA^T$. That is the $i$-th row in $B^T$($i$-th column in $B$) times $j$-th column in $A^T$($j$-th column in $A$).
+Now consider the $ij$-entry in $B^TA^T$. That is the $i$-th row in $B^T$($i$-th column in $B$) times $j$-th column in $A^T$($j$-th row in $A$).
 
 ## Identity matrix
 
