@@ -1,6 +1,6 @@
 [toc]
 
-# Math54 Lec7
+# Math 54 Lec7
 
 ## Recap
 

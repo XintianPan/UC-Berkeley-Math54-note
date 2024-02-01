@@ -1,4 +1,8 @@
-# Vectors
+[toc]
+
+# Math 54 Lec3
+
+## Vectors
 
 With any collection of vectors: $\{v_1, v_2, \dots, v_n\}$, consider a linear combination of these vectors: $c_1v_1 + c_2v_2 + \dots + c_nv_n$ where each $c_i \in \mathbb{R}$.
 
